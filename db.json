@@ -1,0 +1,460 @@
+{
+    "menu":[
+        {
+            "id":1,
+
+            "name":"",
+
+            "link":"https://www.disney.co.uk/",
+
+            "imgsrc":"https://static-mh.content.disney.io/matterhorn/assets/goc/disney_logo_dark@2x-45d70f7dd57b.png"
+        },
+
+        {
+            "id":2,
+
+            "name":"DISNEY+",
+
+            "link":"https://www.disney.co.uk/"
+        },
+
+        {
+            "id":3,
+
+            "name":"SHOP",
+
+            "link":"https://www.disneystore.co.uk/?cid=chn%3Anav%3Ashopnonpromo%3Apcode%3A%3Ahome_+_page%3A%3A%3A%3Adest&cmp=OTL-DOLUK"
+        },
+
+        {
+            "id":4,
+
+            "name":"MOVIES",
+
+            "link":"https://www.disney.co.uk/movies"
+        },
+
+        {
+            "id":5,
+
+            "name":"SHOWS",
+
+            "link":"https://www.disneytickets.co.uk/?ex_cmp=otl-dol-uk:sbnv:homepage:mxdtg-dtx::::20221101::dtx"
+        },
+
+        {
+            "id":6,
+
+            "name":"PARKS",
+
+            "link":"https://www.disney.co.uk/"
+        }
+    ],
+
+    "box01":[
+
+        {
+            "id":1,
+
+            "link":"https://www.disney.co.uk/",
+
+            "imgsrc":"https://lumiere-a.akamaihd.net/v1/images/disneyplus_kingdom-of-the-planet-of-the-apes_hero_v2_r_b9133e64.jpeg?region=0,0,3200,1372"
+
+            
+
+                        
+        }
+    ],
+
+    "box02":[
+
+        {
+            "id":1,
+
+            "imagesrc":"https://lumiere-a.akamaihd.net/v1/images/ddi_promos_dlp_september_campaign_fy24_1_po_3695_14ef61bd.jpeg?region=0,0,800,920&width=480",
+
+            "title":"20% off selected Disney Hotel room nights + Disney Park Tickets at Disneyland Paris",
+
+            "description":"Only for Disneyt subscribers, Offer valid for package* reservations for arrivals untif 30th September 2024.",
+
+
+            "footer":"DISNEYLAND® PARIS"
+
+
+        },
+
+        {
+            "id":2,
+
+            "imagesrc":"https://lumiere-a.akamaihd.net/v1/images/wdw_uk_early_booker_q3_fy24_po_261d40a7.jpeg?region=0,0,800,920&width=480",
+
+            "title":"Bring the Boo...",
+
+            "description":"...and Mickey Mouse too! Shop Hatloween.",
+
+
+            "footer":"WALT DISNEY WORLD"
+
+
+        },
+
+        {
+            "id":3,
+
+            "imagesrc":"https://lumiere-a.akamaihd.net/v1/images/halloween_launch_q4_fy24_pumpkin_po_3622_r_60745ccf.jpeg?region=0,0,800,920&width=480",
+
+            "title":"Frozen The West End Musical",
+
+            "description":"Book your tickets to see Frozen before it concludes its icy adventure in the UK on 8 September, 2024 at Theatre Royal Drury Lane, London!",
+
+
+            "footer":"SHOP"
+
+
+        },
+
+        {
+            "id":4,
+
+            "imagesrc":"https://lumiere-a.akamaihd.net/v1/images/eu_frozen-the-musical_po_r_82ba9d6c.jpeg?region=0,0,800,920&width=480",
+
+            "title":"Star Wars Outlaws",
+
+            "description":"Buy the brand new action-adventure gamefrom Ubisoft",
+
+
+            "footer":"SHOWS"
+
+
+        }
+    ],
+
+    "box03":[
+
+        {
+            "id":1,
+
+            "description":"What's on Disney+"
+        }
+    ],
+
+
+    "box04":[
+
+        {
+            "id":1,
+
+            "imgsrc":"https://lumiere-a.akamaihd.net/v1/images/en_kingdom-of-the-planet-of-the-apes_thumbnail_2b1871ce.jpeg?region=0,0,720,406&width=600",
+
+            "title":"Kingdom of the Planet of the Apes"
+        },
+
+        {
+            "id":2,
+
+            "imgsrc":"https://lumiere-a.akamaihd.net/v1/images/en_young-woman-and-the-sea_thumbnail_8e550bf6.jpeg?region=0,0,720,406&width=600",
+
+            "title":"Young Woman and the Sea"
+        },
+
+        {
+            "id":3,
+
+            "imgsrc":"https://lumiere-a.akamaihd.net/v1/images/en_star-wars-the-acolyte_thumbnail_dplusoriginal_d233fd98.jpeg?region=0,0,720,406&width=600",
+
+            "title":"The Acolyte"
+        }
+    ],
+
+
+    "box05":[
+
+        {
+
+            "id":1,
+
+            "link":"https://disneyplus.bn5x.net/c/4259689/564546/9358?subId1=HOMEPAGE&subId2=BUTTON&sharedid=HOMEPAGE&u=https%3A%2F%2Fwww.disneyplus.com%2Fen-gb&partnerpropertyid=4329269"
+        }
+    ],
+
+
+    "box06":[
+
+        {
+
+            "id":1,
+
+            "title":"*38+| ferms and Conditons Apply | Plans start from just E499 a manth"
+        }
+    ],
+
+
+    "box07":[
+
+        
+
+        {
+
+            "id":1,
+
+            "title":"Shop",
+
+            "imgsrc1":"https://lumiere-a.akamaihd.net/v1/images/shop_disney_generic_banner_fy24_short_hero_v1_ab81a272.jpeg?region=0,0,3200,1068&width=2048",
+
+            "imgsrc2":"https://lumiere-a.akamaihd.net/v1/images/shop_disney_logo_uk_c37d085b.png?region=0,0,908,181",
+
+            "description":"Shop the stories you love for you and your family",
+
+            "link":"https://www.disneystore.co.uk/?cid=chn%3Abnn%3Aplushbanner%3Apcode%3A%3Ahome_+_page%3A%3A%3A%3Adest&cmp=OTL-DOLUK"
+        }
+    ],
+
+
+    "box08":[
+
+        {
+
+            "id":1,
+
+            "title":"park"
+        }
+    ],
+
+
+    "box09":[
+        
+        {
+
+            "id":1,
+
+
+            "imgsrc":"https://lumiere-a.akamaihd.net/v1/images/parks_dlp-dpluspriceoffer_logo_c169_r_7e9f08e4.jpeg?region=0,0,1460,824&width=960",
+
+            "title":"20% off selected Disney Hotel room nights + Disney Park Tickets at Disneyland Paris",
+
+            "description":"Only for Disney+ subscribers. Offer valid for package* reservations for arrivals until 30th September 2024. *Excludes Disneyland Hotel and certain rooms. See conditions on DisneylandParis.com.",
+
+            "footer":"DISNEYLAND® PARIS"
+        },
+
+
+        {
+
+            "id":2,
+
+
+            "imgsrc":"https://lumiere-a.akamaihd.net/v1/images/ddi_promos_wdw_per_day_merchandising_fy24_3_po_3695_4333f759.jpeg?region=0,0,800,920&width=480",
+
+            "title":"Discover Disney Magic Tickets",
+
+            "description":"Specially designed for UK and Ireland Guests, our Disney Magic Ticket is better value than purchasing at the gate and comes with a whole host of benefitsincluding Memory Maker, valued at $210.Book now from only ￡39/645 per day!",
+
+            "footer":"WALT DISNEY WORLD"
+        },
+
+
+        {
+
+            "id":3,
+
+
+            "imgsrc":"https://lumiere-a.akamaihd.net/v1/images/dcl_summer_itineraries_fy24_po_v2_579c5be1.jpeg?region=0,0,800,920&width=480",
+
+            "title":"New Disney Cruise Line Sailings in Summer 2025",
+
+            "description":"Drop anchor at exciting destinations across the globe in Summer 2025- set sail throughout Europe, Caribbean, Bahamas,Alaska and more.",
+
+            "footer":"DISNEY CRUISE LINE"
+        }
+    ],
+
+
+    "box10":[
+
+        {
+
+            "id":1,
+
+            "title":"Shows"
+        }
+    ],
+
+
+    "box11":[
+
+        {
+
+            "id":1,
+
+
+            "imgsrc1":"https://lumiere-a.akamaihd.net/v1/images/eu_tlk_lion-head_sq_r_5ba326ba.jpeg?region=0,0,1568,1568&width=960",
+
+
+            "imgsrc2":"https://lumiere-a.akamaihd.net/v1/images/uk_shows_lio-mus_logo_0ad90dc3.png?region=0,0,800,256&width=400",
+
+
+            "imgsrc3":"https://lumiere-a.akamaihd.net/v1/images/mary_poppins_uk_tour_2024_sq_r_ba59ff02.jpeg?region=0,0,1568,1568&width=960"
+        }
+    ],
+
+
+    "box12":[
+
+        {
+
+            "id":1,
+
+            "title":"Movies"
+        }
+    ],
+
+
+    "box13":[
+
+
+        {
+
+            "id":1,
+
+            "img":"https://lumiere-a.akamaihd.net/v1/images/image_710f0d25.jpeg?region=0,0,540,810&width=320",
+
+            "des":"Snow White"
+        },
+
+
+        {
+
+            "id":2,
+
+            "img":"https://lumiere-a.akamaihd.net/v1/images/image_102cef08.jpeg?region=0,0,540,810&width=320",
+
+            "des":"Captain America: Brave New World"
+        },
+
+
+        {
+
+            "id":3,
+
+            "img":"https://lumiere-a.akamaihd.net/v1/images/image_9b066416.jpeg?region=0,0,540,810&width=320",
+
+            "des":"Deadpool & Wolverine"
+        },
+
+
+        {
+
+            "id":4,
+
+            "img":"https://lumiere-a.akamaihd.net/v1/images/image_59ff4471.jpeg?region=0,0,540,810&width=320",
+
+            "des":"Moana 2"
+        },
+
+
+        {
+
+            "id":5,
+
+            "img":"https://lumiere-a.akamaihd.net/v1/images/image_2ba274fc.jpeg?region=0,0,540,810&width=320",
+
+            "des":"Mufasa: The Lion King"
+        }
+    ],
+
+
+    "box14":[
+
+
+        {
+
+            "id":1,
+
+            "title":"More from Disney"
+        }
+    ],
+
+
+    "box15":[
+
+
+        {
+
+            "id":1,
+
+            "img":"https://lumiere-a.akamaihd.net/v1/images/crm-generic_short-hero_r_e8f9f2e1.jpeg?region=0,0,3200,1068&width=2048",
+
+            "title":"Sign up to hear about Disney news and more",
+
+            "des":"JOIN THE FAMILY"
+        }
+    ],
+
+
+    "box16":[
+
+
+        {
+
+            "id":1,
+
+
+            "des":"Follow Disney on:",
+
+
+            "link1":"https://www.facebook.com/DisneyUK/",
+
+
+            "link2":"https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fdisneyuk%2F%3Fhl%3Den&is_from_rle",
+
+
+            "link3":"https://x.com/Disney_UK",
+
+
+            "link4":"https://consent.youtube.com/m?continue=https%3A%2F%2Fwww.youtube.com%2Fuser%2FWaltDisneyStudiosUK%3Fcbrd%3D1&gl=GB&m=0&pc=yt&cm=2&hl=en&src=1"
+        }
+    ],
+
+
+    "box17":[
+
+
+        {
+
+            "id":1,
+
+
+            "img":"https://static-mh.content.disney.io/matterhorn/assets/goc/disney_logo_dark@2x-45d70f7dd57b.png",
+
+            "link1":"https://support.disney.com/hc/en-gb",
+
+            "link2":"https://www.disney.co.uk/sign-up",
+
+            "link3":"https://www.disney.co.uk/sitemap",
+
+            "link4":"https://disneytermsofuse.com/english-united-kingdom/",
+
+            "link5":"https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/privacy-notice/",
+
+            "link6":"https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/",
+
+            "link7":"https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/cookies-policy/",
+
+            "link8":"https://www.disney.co.uk/",
+
+            "link9":"https://preferences-mgr.truste.com/?pid=disney01&aid=disneyemea01&type=Disneyemea",
+
+            "link10":"https://preferences-mgr.truste.com/?pid=disney01&aid=disneyemea01&type=Disneyemea",
+
+            "link11":"https://thewaltdisneycompany.eu/s172-statements/",
+
+            "link12":"https://www.disney.co.uk/about-us",
+
+            "link13":"https://thewaltdisneycompany.eu/",
+
+            "des":"© Disney © Disney-Pixar © & TM Lucasfilm LTD © Marvel. All Rights Reserved"
+        }
+    ]
+
+    
+}
